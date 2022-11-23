@@ -6,7 +6,7 @@
 using static System.Console; 
 Clear();
 
-WriteLine("Введите число, и ниже вы увидите третью цифру от вашего числа");
+WriteLine("Введите число");
 int n = Convert.ToInt32(ReadLine()); 
 int nnomer(int d)
         {
