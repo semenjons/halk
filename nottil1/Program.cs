@@ -9,6 +9,6 @@ using static System.Console;
 Clear();
 
 WriteLine("Введите положительное целое трехзначное число: ");
-int d = Convert.ToInt32(ReadLine()); // Ввводим число.
-int remainder = d / 10 % 10; // делим число на 10 и еще раз на 10, но во втором случае, оставляем только остаток от деления.
-WriteLine(remainder); // выводим остаток от деления.
+int d = Convert.ToInt32(ReadLine());
+int nomer = d / 10 % 10; 
+WriteLine(nomer); 
