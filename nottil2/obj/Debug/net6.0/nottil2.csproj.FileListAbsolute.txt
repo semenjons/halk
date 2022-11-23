@@ -1,0 +1,15 @@
+C:\УЧЕБА\ДЗ\nother\nottil2\bin\Debug\net6.0\nottil2.exe
+C:\УЧЕБА\ДЗ\nother\nottil2\bin\Debug\net6.0\nottil2.deps.json
+C:\УЧЕБА\ДЗ\nother\nottil2\bin\Debug\net6.0\nottil2.runtimeconfig.json
+C:\УЧЕБА\ДЗ\nother\nottil2\bin\Debug\net6.0\nottil2.dll
+C:\УЧЕБА\ДЗ\nother\nottil2\bin\Debug\net6.0\nottil2.pdb
+C:\УЧЕБА\ДЗ\nother\nottil2\obj\Debug\net6.0\nottil2.csproj.AssemblyReference.cache
+C:\УЧЕБА\ДЗ\nother\nottil2\obj\Debug\net6.0\nottil2.GeneratedMSBuildEditorConfig.editorconfig
+C:\УЧЕБА\ДЗ\nother\nottil2\obj\Debug\net6.0\nottil2.AssemblyInfoInputs.cache
+C:\УЧЕБА\ДЗ\nother\nottil2\obj\Debug\net6.0\nottil2.AssemblyInfo.cs
+C:\УЧЕБА\ДЗ\nother\nottil2\obj\Debug\net6.0\nottil2.csproj.CoreCompileInputs.cache
+C:\УЧЕБА\ДЗ\nother\nottil2\obj\Debug\net6.0\nottil2.dll
+C:\УЧЕБА\ДЗ\nother\nottil2\obj\Debug\net6.0\refint\nottil2.dll
+C:\УЧЕБА\ДЗ\nother\nottil2\obj\Debug\net6.0\nottil2.pdb
+C:\УЧЕБА\ДЗ\nother\nottil2\obj\Debug\net6.0\nottil2.genruntimeconfig.cache
+C:\УЧЕБА\ДЗ\nother\nottil2\obj\Debug\net6.0\ref\nottil2.dll
